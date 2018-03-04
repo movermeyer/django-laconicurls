@@ -5,7 +5,7 @@ Django Laconic URLS
 .. image:: https://travis-ci.org/robert-b-clarke/django-laconicurls.svg?branch=master
     :target: https://travis-ci.org/robert-b-clarke/django-laconicurls
 
-.. image:: https://pypip.in/v/django-laconicurls/badge.png
+.. image:: https://img.shields.io/pypi/v/django-laconicurls.svg
     :target: https://pypi.python.org/pypi//django-laconicurls/
     :alt: Downloads
 
